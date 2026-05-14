@@ -81,7 +81,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD",Garuda TV (1080p)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="GTV.id@SD",GTV (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+https://gtv-linier.rctiplus.id/hdntl=exp=1778788033~acl=%2F*~data=hdntl~hmac=29aa2d52a583de318509b0bf502d2843c7ee296103dcaffb3b7efe0b08311830/gtv-sdi-avc1_450000=4-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id@SD",Huma Betang TV (720p) [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id@SD",I Am Channel (576p)
@@ -195,7 +195,7 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch59.m3u8
 #EXTINF:-1 tvg-id="RCTI.id@SD",RCTI
-http://103.66.62.83:8000/play/a00v/index.m3u8
+http://rcti-linier.rctiplus.id/hdntl=exp=1778788222~acl=%2F*~data=hdntl~hmac=31a21faee115fa5c29ed367949fdf311a6f179923c81ad3e84d0a1052df5620b/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id@HD",RCTI HD (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-id="RCTV.id@SD",RCTV (576p) [Not 24/7]
@@ -380,8 +380,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-id="MyKidz.id@SD",My Kidz (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV (576i)
-#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
-http://175.158.57.130:8888/stream/channelid/412436804
+http://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/1561/res=720p/file/stream.mpd?hdntl=exp=1778734662~acl=%2fstream%2f1561%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f1561%2ffile%2f*%2faac%2f*!%2fstream%2f1561%2ffile%2f*%2f*-720p%2f*!%2fstream%2f1561%2ffile%2f*%2f*-480p%2f*!%2fstream%2f1561%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=1f487e0bdf270916b49b05d526a20dbeb5fb69f603a2c4fc33e0be21d7f4be5f
 #EXTINF:-1 tvg-id="JTV.id@Malang",JTV Malang
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Madiun",JTV Madiun
